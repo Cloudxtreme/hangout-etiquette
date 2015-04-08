@@ -20,8 +20,8 @@ For whatever browser you are using, make sure to install any required plugins fo
 # Video
 Video is not optional. Use a decent webcam. The one built-in to a laptop is usually fine. If you are using Linux, make sure you have the proper drivers and kernel modules built. If you don’t have one built into your workstation, most phones/tablets can be setup to use Hangouts:
 
-Android: <https://play.google.com/store/apps/details?id=com.google.android.talk>
-iOS: <https://itunes.apple.com/us/app/hangouts-free-messaging-video/id643496868>
+- Android: <https://play.google.com/store/apps/details?id=com.google.android.talk>
+- iOS: <https://itunes.apple.com/us/app/hangouts-free-messaging-video/id643496868>
 
 This should not be your permanent setup. Hangouts on mobile platforms is limited and doesn’t easily support many things we use like Hangouts apps and chat.
 
