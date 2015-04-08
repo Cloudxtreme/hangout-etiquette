@@ -12,3 +12,7 @@ github_username:  site5
 
 # Build settings
 markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
