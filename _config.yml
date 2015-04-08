@@ -1,0 +1,14 @@
+# Site settings
+title: Hangout Etiquette
+email: management@wwwh.com
+description: >
+  World Wide Web Hosting (you might know us by our Site5 brand) is a 100%
+  remote company. We hold most of our meetings and interviews over
+  Google Hangouts. This is how you should behave in them.
+baseurl: "/hangout-etiquette"
+url: "http://site5.github.io/hangout-etiquette"
+twitter_username: site5
+github_username:  site5
+
+# Build settings
+markdown: kramdown
