@@ -4,7 +4,7 @@ kramdown:
   parse_block_html: true
 ---
 
-[World Wide Web Hosting](http://wwwwh.com) relies heavily on video conferencing for meetings. Whether you’re a candidate attending an interview or a current team member attending a meeting, it is necessary to have a working video conferencing setup in order to be successful. This is a short guide on how to avoid some common problems and faux pas that we frequently see with new (and veteran) video conference attendees.
+[World Wide Web Hosting](http://wwwh.com) relies heavily on video conferencing for meetings. Whether you’re a candidate attending an interview or a current team member attending a meeting, it is necessary to have a working video conferencing setup in order to be successful. This is a short guide on how to avoid some common problems and faux pas that we frequently see with new (and veteran) video conference attendees.
 
 # The Technology
 For all meetings we use [Google Hangouts](http://www.google.com/+/learnmore/hangouts/). Since we pay for Google Apps and all have accounts for our work email this is what makes the most sense for us. Your setup must be compatible with Google Hangouts. Checkout the minimum requirements suggested by Google here: <https://support.google.com/plus/answer/1216376>. Pay particular attention the bandwidth section; Interweb connection speed plays a large part in successful video conferencing.
